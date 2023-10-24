@@ -13,7 +13,7 @@
 ![GameMaker](https://img.shields.io/badge/GameMaker-white?style=for-the-badge&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logoColor=white)
 </br>
-Y alguna más...
+Y algunas más...
 
 
 
