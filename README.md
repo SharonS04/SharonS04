@@ -7,13 +7,14 @@
 - Me encanta trabajar en proyectos desafiantes.
 
 ## Tecnologías:
-[![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![GameMaker](https://img.shields.io/badge/GameMaker-white?style=for-the-badge&logo=gamemaker&logoColor=black)]()
-[![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=sql&logoColor=white)]()
+![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-white?style=for-the-badge&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logoColor=white)
 </br>
 Y alguna más...
+
 
 
 ## Encuéntrame en:
