@@ -2,9 +2,9 @@
 ### Software Developer
 
 
-- 🔭 Soy una estudiante de ingeniería en informática.
-- Soy apasionada por la tecnología y la programación, y siempre estoy aprendiendo cosas nuevas.
-- Me encanta trabajar en proyectos desafiantes.
+- 👩‍💻 Soy una estudiante de ingeniería en informática.
+- 🔥 Soy apasionada por la tecnología y la programación, y siempre estoy aprendiendo cosas nuevas.
+- 🏆 Me encanta trabajar en proyectos desafiantes.
 
 ## Tecnologías:
 ![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logoColor=white)
